@@ -12,6 +12,5 @@ public class SalaryCalculator {
         } else {
             System.out.println("wrong input!");
         }
-
     }
 }
