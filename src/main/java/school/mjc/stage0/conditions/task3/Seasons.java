@@ -9,7 +9,7 @@ public class Seasons {
             System.out.println("Fall");
         } else if (month >= 3 && month <= 5) {
             System.out.println("Spring");
-        } else if (month == 12 && month <= 2 && month > 0) {
+        } else if (month == 12 && month <= 2 && month >= 1) {
             System.out.println("Winter");
         } else {
             System.out.println("wrong number!");
